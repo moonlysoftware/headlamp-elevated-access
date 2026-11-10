@@ -1,3 +1,4 @@
-# Artifact Hub repository metadata. Add repositoryID and owners after registering the repo.
+# Artifact Hub repository metadata.
 # https://artifacthub.io/docs/topics/repositories/headlamp-plugins/
-owners: []
+# repositoryID proves control of this repo and earns the "Verified publisher" badge.
+repositoryID: 1490bc69-e63d-4443-981b-9774e5bc5193
