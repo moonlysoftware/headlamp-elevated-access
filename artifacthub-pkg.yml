@@ -2,7 +2,7 @@
 version: 0.1.0
 name: headlamp-elevated-access
 displayName: Elevated Access
-createdAt: "2026-11-10T00:00:00Z"
+createdAt: "2026-11-10T16:46:06Z"
 description: Request approved, short-lived Kubernetes access from hosted Headlamp and install it as Headlamp's HttpOnly session cookie.
 license: Apache-2.0
 homeURL: https://github.com/moonlysoftware/headlamp-elevated-access
@@ -13,6 +13,6 @@ keywords:
   - approval
 annotations:
   headlamp/plugin/archive-url: "https://github.com/moonlysoftware/headlamp-elevated-access/releases/download/v0.1.0/headlamp-elevated-access-0.1.0.tar.gz"
-  headlamp/plugin/archive-checksum: "SHA256:PENDING"
+  headlamp/plugin/archive-checksum: "SHA256:888b5a2fa2380d50613fc0968282be888a54ed77d44fdef887771399edb7a3bb"
   headlamp/plugin/version-compat: ">=0.44.0"
   headlamp/plugin/distro-compat: in-cluster
